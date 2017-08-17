@@ -31,7 +31,6 @@ public class MainSearchActivity extends AppCompatActivity {
         }
         else {
             startActivity(intent);
-            //Toast.makeText(this, "" + searchButton.getText(), Toast.LENGTH_LONG).show();
         }
 
     }
