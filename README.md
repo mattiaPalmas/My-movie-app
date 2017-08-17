@@ -1,7 +1,8 @@
 # " 🎬 My-movie-app 🎬" 
 
-[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
-[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/android)
+[![Platform](https://img.shields.io/badge/platform-android-green.svg?style=flat)](https://www.android.com/)
+[![Language](https://img.shields.io/badge/language-java-blue.svg?style=flat)](https://www.java.com/en/)
+
 **Version 1.0**
 
 Dummy app to practise Recycle view and fetching data from an API.
